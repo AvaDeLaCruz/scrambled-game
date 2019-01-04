@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EasyGame()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ EasyGame\r\n
+comment1.params=
+comment1.target=void\ analyze()
+comment2.params=
+comment2.target=void\ setNextWord()
+comment3.params=aWord
+comment3.target=java.lang.String\ scrambleWord(java.lang.String)
+comment4.params=
+comment4.target=void\ getScrambled()
+comment5.params=
+comment5.target=int\ getAllWords()
+comment6.params=
+comment6.target=java.lang.String\ getTheWord()
+numComments=7
